@@ -1,3 +1,1 @@
-Hello %player% welcome to %pack% v%version%!
-
-Please send bugs to my github. I won't remember if you tell me; I'm far too ADD for that shit.
+Hello %player% welcome to %pack% v%version%!\n\nPlease send bugs to my github. I won't remember if you tell me; I'm far too ADD for that shit.
