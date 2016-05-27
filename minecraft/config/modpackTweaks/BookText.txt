@@ -1,10 +1,10 @@
 Welcome to...~
 ~
-�oKazPack�r!
+§oKazPack§r!
 ~
 ~
 To report bugs go to~
-https://github.com/KazroFox/nxPack/issues~
+https://github.com/KazroFox/KazPack/issues~
 ~
 ~~~
 Planned Changes~
