@@ -1,1 +1,100 @@
-There is nothing here right now!
+commit 4f7e1cd7c6eddfb8521427533ed62a0fd13b4ec0
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Fri May 27 17:04:26 2016 -0400
+
+    Removed dirt slimes
+    
+    Fixes #7. You're welcome.
+
+commit 5ddc969e98f0a4de8f8a21a5ffdfa61c248ae0ef
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Fri May 27 17:01:18 2016 -0400
+
+    Updated book text.
+    
+    Fixes #2. Hopefully fixes the weird character encoding problems
+    as well.
+
+commit ccd0fcc163ceb36a7a8e004439139440bde4b3d5
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Fri May 27 16:59:25 2016 -0400
+
+    Remove refresh button from main menu
+    
+    Fixes #4
+
+commit 542ac80c096f8baf93e318dfd5bacea89799520e
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Fri May 27 16:43:17 2016 -0400
+
+    Added some sane default configs
+    
+    Fixes #3. Added options.txt to fix some painful defaults.
+
+commit 48a8fe36b26336c8767828ca398817935b8e41d9
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Thu May 26 21:47:15 2016 -0400
+
+    Fix Osmium not generating
+    
+    Fixes #12. Retrogen not enabled, users will need to do so manually.
+
+commit 763b882314ad0b21c6cee70059a16c2779d3684a
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Wed May 25 04:47:37 2016 -0400
+
+    Add modpacktweaks and main menu configs
+    
+    Added config files to customize the modpack through modpack tweaks.
+    
+    Added config files to customize the main menu.
+
+commit 59be498bcd437c52bd0867308ed9cb17b624485d
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Wed May 25 04:45:42 2016 -0400
+
+    Fuck launchgui
+    
+    I cant get that shit to work. IDC tho whatevs, just delete dat shit boi
+
+commit 878ccbe0c43b1bbe2797ab5560e9659960818640
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Wed May 25 03:42:48 2016 -0400
+
+    Update README.md
+
+commit 6b62696985d64f6308c87f0905705beac33495bc
+Author: Kazro Fox <KazroFox@users.noreply.github.com>
+Date:   Wed May 25 03:41:10 2016 -0400
+
+    Update README.md
+
+commit 34f4a3813c687675688db1db4bf26e7330780a86
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Wed May 25 01:21:34 2016 -0400
+
+    Fix launchgui info file
+    
+    Must be one line, not several
+
+commit 08aaea88d9011e08f28c35c5a59f38973a181f50
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Wed May 25 01:11:58 2016 -0400
+
+    LaunchGUI initial files
+    
+    Adding files that LaunchGUI needs to work
+
+commit 0120ad67f1614687a78db02a4688d0cec86d108c
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Wed May 25 00:52:23 2016 -0400
+
+    Added some obvious .git files
+    
+    Added .gitattributes and .gitignore
+
+commit 5fe6b3c7f7fff8869490ebe6878817fcfe6ff505
+Author: Kazro Fox <austinholbrook@me.com>
+Date:   Wed May 25 00:40:35 2016 -0400
+
+    Creating repo
