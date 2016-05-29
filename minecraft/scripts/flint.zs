@@ -1,0 +1,1 @@
+recipes.addShapeless(<minecraft:flint> * 2, [<minecraft:gravel>, <minecraft:flint>]);

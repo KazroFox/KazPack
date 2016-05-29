@@ -1,0 +1,1 @@
+recipes.addShapeless(<minecraft:sand> * 2, [<minecraft:gravel>]);

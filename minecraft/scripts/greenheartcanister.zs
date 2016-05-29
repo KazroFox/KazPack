@@ -1,0 +1,1 @@
+recipes.addShapeless(<TConstruct:heartCanister:6> * 1, [<TConstruct:heartCanister:4>, <minecraft:nether_star>, <minecraft:nether_star>, <minecraft:nether_star>, <minecraft:nether_star>, <minecraft:nether_star>, <minecraft:nether_star>, <minecraft:nether_star>, <minecraft:nether_star>]);

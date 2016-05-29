@@ -1,0 +1,1 @@
+mods.thermalexpansion.Smelter.addRecipe(40000, <minecraft:skull:1>, <minecraft:diamond_sword>, <minecraft:nether_star>);
