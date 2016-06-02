@@ -17,10 +17,12 @@
         "singleplayer":
         {
             "text" : "menu.singleplayer",
-            "posX" : -100,
-            "posY" : 48,
-            "width" : 200,
-            "height" : 20,
+            "alignment" : "right_center",
+            "posX" : -200,
+            "posY" : -48,
+            "width" : 196,
+            "height" : 40,
+            "texture" : "kazpack:textures/gui/button196x40.png",
             "action" :
             {
                 "type" : "openGui",
@@ -31,10 +33,12 @@
         "multiplayer":
         {
             "text" : "menu.multiplayer",
-            "posX" : -100,
-            "posY" : 72,
-            "width" : 200,
-            "height" : 20,
+            "alignment" : "right_center",
+            "posX" : -200,
+            "posY" : 0,
+            "width" : 196,
+            "height" : 40,
+            "texture" : "kazpack:textures/gui/button196x40.png",
             "action" :
             {
                 "type" : "openGui",
@@ -45,10 +49,12 @@
         "mods":
         {
             "text" : "Mods",
-            "posX" : -100,
-            "posY" : 96,
-            "width" : 200,
-            "height" : 20,
+            "alignment" : "right_center",
+            "posX" : -200,
+            "posY" : 48,
+            "width" : 196,
+            "height" : 40,
+            "texture" : "kazpack:textures/gui/button196x40.png",
             "action" :
             {
                 "type" : "openGui",
@@ -58,11 +64,13 @@
 
         "options":
         {
-            "text" : "menu.options",
+            "text" : "Opt",
+            "alignment" : "right_center",
             "posX" : -100,
             "posY" : 132,
-            "width" : 98,
-            "height" : 20,
+            "width" : 40,
+            "height" : 40,
+            "texture" : "kazpack:textures/gui/button40x40.png",
             "action" :
             {
                 "type" : "openGui",
@@ -94,6 +102,19 @@
             {
                 "type" : "openGui",
                 "gui" : "languages"
+            }
+        },
+        
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -148,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20,
+            "action" :
+            {
+                "type" : "refresh"
             }
         }
     },
@@ -130,10 +151,12 @@
             "texts" : "file:minecraft:texts/splashes.txt"
         },
 
-        "background":
+        "panorama":
         {
-            "image" : "kazpack:textures/gui/noisytile.png",
-            "mode" : "tile"
+            "images" : "kazpack:textures/gui/panorama%c.png",
+            "blur" : true,
+            "gradient" : true,
+            "animate" : true
         }
     }
 }
